@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="BaiKTa-Java-Web-mvc-Product:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/BaiKTa_Java_Web_mvc_Product_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="BaiKTa-Java-Web-mvc-Product/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BaiKTa-Java-Web-mvc-Product" />
+        </element>
+        <element id="directory" name="lib" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -47,9 +47,6 @@
                         <td>
                             Avatar:
                         </td>
-                        <td>
-                            <img src="<%request.getServletContext().getRealPath("");%>/image/${product.getAvatar()}" id="image">
-                        </td>
                     </tr>
                     <tr>
                         <td>
